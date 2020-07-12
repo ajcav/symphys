@@ -1,2 +1,2 @@
 # symphys
-Basic package for general physical system modeling. Used as an aid for studying.
+Basic package for general physical system modeling. Used as a study aid.

@@ -1,0 +1,8 @@
+README.md
+setup.py
+symphys/__init__.py
+symphys/vector.py
+symphys.egg-info/PKG-INFO
+symphys.egg-info/SOURCES.txt
+symphys.egg-info/dependency_links.txt
+symphys.egg-info/top_level.txt
